@@ -1,44 +1,62 @@
+<!-- CHAOS README.md -->
 
-<!-- CHAOS README.md | Neon Glitch Experience -->
-
-<!-- ANIMATED TYPING EFFECT -->
+<!-- ANIMIERTE GLITCH-TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=BD93F9&center=true&vCenter=true&multiline=true&width=700&lines=█%20BOOTING%20CHAOS;█%20SYSTEM%20ONLINE;█%20NEON%20FLOW%20ENGAGED;█%20WELCOME%20TO%20THE%20CORE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=7D5FFF&center=true&vCenter=true&width=700&lines=System+Failure...;Glitch+Detected...;Overclocking+Reality...;Entering+%F0%9D%97%BA%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB..." />
 </p>
 
-<!-- NEON CAPSULE HEADER -->
-![capsule](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f4c,100:BD93F9&height=140&section=header&text=CHAOS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<!-- NEON CAPSULE WAVE HEADER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f4c,100:7D5FFF&height=140&section=header&text=CHAOS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<!-- SKILL ICONS IN NEON MATRIX -->
+<!-- ANIMIERTE GIF-MATRIX-HINTERGRUND (optional) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,ts,js,html,css,react,nextjs,nodejs,bash,powershell,git,docker,postgres,linux,vscode,anaconda,yarn&perline=8" />
+  <img src="https://media.giphy.com/media/3o7TKtd1eXdqP2Vwzm/giphy.gif" width="100%" alt="glitch" />
 </p>
 
-<!-- NEON BADGES -->
+<!-- VISUALIZED SKILLS (chaos-block) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATE-NEON_GODMODE-7D5FFF?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/LATENCY-0.000ms-BD93F9?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/UPTIME-∞-8a9cbe?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MODE-ASYNC_GLITCH-ff00ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=go,py,ts,js,html,css,react,nextjs,nodejs,bash,powershell,git,docker,postgres,linux,vscode" />
 </p>
 
-<!-- LIVE STATUS PULSE -->
+<!-- EXTREME STATS COMBO BLOCK -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1500&pause=500&color=7D5FFF&center=true&vCenter=true&width=600&lines=▌PULSE%3A%20█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;▌PULSE%3A%20████▒▒▒▒▒▒▒▒▒▒▒;▌PULSE%3A%20██████████▒▒▒▒▒▒;▌PULSE%3A%20███████████████▒▒;▌PULSE%3A%20██████████████████" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cha03s&show_icons=true&theme=tokyonight&count_private=true&hide=issues&title_color=7D5FFF&icon_color=BD93F9&text_color=ffffff&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cha03s&theme=tokyonight&background=0d1117&ring=7D5FFF&fire=BD93F9&currStreakLabel=ffffff" height="165" />
 </p>
 
-<!-- TERMINAL VISUAL SIMULATION -->
+<!-- ACTIVITY GRAPH - CYBER LILA -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cha03s&theme=dracula&area=true&color=BD93F9&point=7D5FFF&line=BD93F9&bg_color=0d1117" />
+</p>
+
+<!-- BADGES LIKE WARNING INDICATORS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-System%20Overload-7D5FFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Latency-0.000ms-BD93F9?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-RUNNING-5f0fff?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-State%3A%20CHAOS-8a9cbe?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-LIMIT_BREAK-darkblue?style=for-the-badge&logo=archlinux&logoColor=white" />
+</p>
+
+<!-- CYBERTERMINAL CORE -->
 <pre align="center"><code>
-chaos@system:~$ ./core.sh --start
+chaos@core:~$ ./execute.sh --neon-mode --visual-glitch
 
-[✓] Initializing visual stack...
-[✓] Injecting async pulse into render thread...
-[✓] Syncing glitch-core to neon-frequency...
+[✓] stack booted
+[✓] core loop: async, no drag
+[✓] theme: #0a0f4c background // #BD93F9 glow
+[✓] uptime: ∞
+[!] WARNING: visual layer unstable
 
-→ Status: LIVE ∙ STYLE: BLU-LILA GLITCH ∙ FRAME: OVERDRIVE
+→ processing...
 </code></pre>
 
-<!-- FOOTER WAVE -->
+<!-- FINAL CTA TERMINAL BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/terminal-$%20cd%20~%2FCHAOS-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+<!-- OUTRO WAVING CHAOS -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:0a0f4c&height=120&section=footer"/>
 </p>
