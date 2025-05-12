@@ -1,52 +1,32 @@
 <!-- README.md -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aaron%20%7C%20Architect%20of%20Latency%20Death&fontSize=38&animation=fadeIn&fontAlignY=35)
+![Chaos](https://capsule-render.vercel.app/api?type=waving&color=0:5f0fff,100:2b32b2&height=200&section=header&text=CHAOS&fontSize=60&animation=fadeIn&fontAlignY=40&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,ts,js,html,react,nextjs,nodejs,powershell,git,linux,docker,postgres,anaconda" />
+  <img src="https://skillicons.dev/icons?i=go,py,ts,js,html,css,react,nextjs,nodejs,bash,powershell,git,github,docker,postgres,linux,vscode,anaconda,yarn" />
 </p>
 
-```bash
-aaron@core:~$ whoami
-architect · fullstack engineer · low-level dominator
-code ≠ product. code = weapon. deployed with purpose. zero drag.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deinusername&show_icons=true&count_private=true&hide=issues&theme=tokyonight&bg_color=0d1117&title_color=8a9cbe&icon_color=7FDBFF&text_color=999999" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deinusername&theme=tokyonight&background=0d1117&ring=7FDBFF&fire=7FDBFF&currStreakLabel=ffffff" height="165" />
+</div>
 
-aaron@core:~$ uname -a
-OS: Void Linux   Kernel: UltraPerformance™   Uptime: 21y   Shell: async-fish
+<br>
 
-aaron@core:~$ neofetch
-┌────────────────────────────────────────────────────────────────────────────┐
-│ ⚙️  Languages: Go · Python · TypeScript · PowerShell · JavaScript · HTML5 │
-│ 🧠  Frameworks: Node.js · React · Next.js · YAML                          │
-│ ☁️  Infra: Linux · Hetzner · Anaconda · CI/CD mit GitHub Actions          │
-│ 🔥  Stack Style: Minimal abstractions. Maximal speed.                     │
-└────────────────────────────────────────────────────────────────────────────┘
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deinusername&theme=react-dark&area=true&color=7FDBFF&point=8a9cbe&line=7FDBFF&bg_color=0d1117" />
+</div>
 
-aaron@core:~$ tree ~/projects
-📂 projects/
-├── ghoststack   → zero-bloat Go + React engine for real-time platforms
-├── fluxctl      → async infra orchestrator via Node + YAML
-├── soulscript   → secure Powershell automation for cloud ops
-└── blackpipe    → latency-murdering API system in pure Python
+<br>
 
-aaron@core:~$ ./status.sh
-[+] GitHub stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=deinusername&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-Stable-7FDBFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Latency-%3C5ms-8a9cbe?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-7FDBFF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infra-Hetzner-8a9cbe?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine-State%3A%20ACTIVE-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
 
-[+] Contribution streaks:
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=deinusername&theme=tokyonight)
+---
 
-[+] Live commit graph:
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=deinusername&theme=tokyo-night)
-
-[+] Core tech skills:
-![Skills](https://skillicons.dev/icons?i=go,py,ts,js,html,react,nextjs,nodejs,powershell,linux,git,docker,postgres,anaconda)
-
-aaron@core:~$ cat ~/philosophy.txt
-> Every line should justify its execution cost.  
-> Never wait. Never waste. Never settle.  
-> Build like you’re launching a weapon system — not a to-do list.
-
-aaron@core:~$ curl contact.me
-Discord: `aaron.exe`  
-Mail: `kontakt@deine-domain.de`
+> <p align="center"><code>status: rebooting the world in low latency</code></p>
