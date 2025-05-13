@@ -1,20 +1,28 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"></h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<br clear="both">
+
+<h1 align="left">CHAOS 🌌⚡</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<br clear="both">
+
+<h3 align="left">Welcome to the Digital Overload</h3>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<br clear="both">
+
+<h6 align="left">🧑‍💻 Developer | ⚡ Innovator | 🔥 Chaos Architect<br><br>Hi, I'm Aaron (aka Cha03s), a young developer harnessing the power of the neon grid to build the future. My code is blazing fast, high-performance, and chaotic—just the way I like it.</h6>
 
 ###
 
-<h2 align="left">I code with</h2>
+<br clear="both">
+
+<p align="left">⚡ Technologies I Use ⚡<br><br>Python, JavaScript, TypeScript, Go<br>PostgreSQL, Redis<br>React, Next.js, Node.js, Docker<br>Discord.py, asyncio, FastAPI</p>
 
 ###
 
@@ -94,6 +102,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cha03s/Cha03s/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cha03s/Cha03s/output/pacman-contribution-graph.svg">
@@ -102,9 +112,13 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cha03s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cha03s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cha03s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cha03s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cha03s&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Cha03s&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -113,6 +127,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cha03s.Cha03s&"  />
 </div>
 
 ###
