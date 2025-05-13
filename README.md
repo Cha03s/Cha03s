@@ -13,6 +13,13 @@
   <img src="https://skillicons.dev/icons?i=go,py,ts,js,html,css,react,nextjs,nodejs,bash,powershell,git,docker,postgres,linux,vscode,anaconda,yarn&perline=9" />
 </p>
 
+<!-- WORKFLOW STATUS BADGE -->
+## Pacman Workflow
+
+The **Pacman Workflow** is an automated process that runs on every push to ensure everything works smoothly.
+
+![Workflow Status](https://img.shields.io/github/workflow/status/Cha03s/Cha03s/pacman?label=Workflow%20Status)
+
 <!-- STACK STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cha03s&show_icons=true&theme=tokyonight&count_private=true&hide=issues&title_color=BD93F9&icon_color=7D5FFF&text_color=ffffff&bg_color=0a0f4c" height="165" />
