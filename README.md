@@ -94,3 +94,13 @@ chaos@core:~$ ./glitch --runtime inject
 <p align="center">
   <img src="https://progress-bar.dev/100?title=Loading%20Chaos&width=1000&height=35&color=7D5FFF&seconds=3" />
 </p>
+
+<!-- LIVE WEATHER AND CRYPTOCURRENCY INFO -->
+<p align="center">
+  <img src="https://fakeimg.pl/500x200/?text=Weather+%26+Crypto&font=roboto&bg=00aaff&textcolor=ffffff" />
+</p>
+
+<!-- REAL-TIME VISUALIZATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cha03s/Cha03s/main/animations/realtime.gif" />
+</p>
