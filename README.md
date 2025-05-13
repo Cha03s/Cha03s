@@ -68,13 +68,6 @@ chaos@core:~$ ./glitch --runtime inject
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:0a0f4c&height=120&section=footer"/>
 </p>
 
-<!-- NEON PULSING BUTTON -->
-<p align="center">
-  <a href="https://github.com/Cha03s" target="_blank">
-    <img src="https://img.shields.io/badge/Jump%20To%20CHAOS%20Portal-Click%20Here-7D5FFF?style=for-the-badge&logo=rocket&logoColor=white&color=7D5FFF&logoWidth=30&link=https://github.com/Cha03s"/>
-  </a>
-</p>
-
 <!-- DYNAMIC CODE SNIPPET WITH BACKGROUND ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cha03s/Cha03s/main/animations/code.gif" />
