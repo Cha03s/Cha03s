@@ -72,18 +72,3 @@ chaos@core:~$ ./glitch --runtime inject
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cha03s/Cha03s/main/animations/code.gif" />
 </p>
-
-<!-- CYBER EFFECT TEXT -->
-<p align="center">
-  <h1 style="color:#00f9ff; font-family: 'Courier New', monospace; text-shadow: 0 0 10px rgba(0,255,255,0.8);">CONNECTED TO CHAOS CORE</h1>
-</p>
-
-<!-- WILD SCROLLING TUNNEL -->
-<p align="center">
-  <iframe src="https://embed.lottiefiles.com/animation/128170" width="100%" height="300px" style="border: none;"></iframe>
-</p>
-
-<!-- DYNAMIC LOADING BAR -->
-<p align="center">
-  <img src="https://progress-bar.dev/100?title=Loading%20Chaos&width=1000&height=35&color=7D5FFF&seconds=3" />
-</p>
