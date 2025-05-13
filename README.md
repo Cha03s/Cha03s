@@ -1,140 +1,96 @@
-<h1 align="left"></h1>
+<!-- CHAOS README.md | FULL POWER EXPANDED -->
 
-###
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=BD93F9&center=true&vCenter=true&width=700&lines=▌System%20Online...;▌Entering%20Glitch%20State...;▌Neon%20Overdrive%20Engaged...;▌Terminal%20Locked%20In...;▌State%3A%20CHAOS%20∞" />
+</p>
 
-<br clear="both">
+<!-- CAPSULE WAVE HEADER -->
+![capsule](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f4c,100:BD93F9&height=160&section=header&text=CHAOS&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<h1 align="left">CHAOS 🌌⚡</h1>
+<!-- SKILL ICON GRID -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,ts,js,html,css,react,nextjs,nodejs,bash,powershell,git,docker,postgres,linux,vscode,anaconda,yarn&perline=9" />
+</p>
 
-###
+<!-- STACK STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cha03s&show_icons=true&theme=tokyonight&count_private=true&hide=issues&title_color=BD93F9&icon_color=7D5FFF&text_color=ffffff&bg_color=0a0f4c" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cha03s&theme=tokyonight&background=0a0f4c&ring=BD93F9&fire=ff00ff&currStreakLabel=ffffff" height="165" />
+</p>
 
-<br clear="both">
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cha03s&theme=react-dark&area=true&color=7D5FFF&point=BD93F9&line=BD93F9&bg_color=0a0f4c" />
+</p>
 
-<h3 align="left">Welcome to the Digital Overload</h3>
+<!-- BADGE CLUSTER -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Neon_Overdrive-7D5FFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Latency-0.000ms-BD93F9?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uptime-∞-8a9cbe?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engine-ASYNCHRONOUS-ff00ff?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-State%3A%20CHAOS-5f0fff?style=for-the-badge&logo=obsidian&logoColor=white" />
+</p>
 
-###
+<!-- ANIMATED TEXT LINE 2 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1200&pause=200&color=BD93F9&center=true&vCenter=true&width=700&lines=▌PULSE%3A%20█▒▒▒▒▒▒▒▒▒▒▒▒▒;▌PULSE%3A%20████▒▒▒▒▒▒▒▒▒;▌PULSE%3A%20██████████▒▒▒▒;▌PULSE%3A%20██████████████▒▒;▌PULSE%3A%20███████████████████" />
+</p>
 
-<br clear="both">
+<!-- TERMINAL BLOCK SIMULATION -->
+<pre align="center"><code>
+chaos@core:~$ ./glitch --runtime inject
 
-<h6 align="left">🧑‍💻 Developer | ⚡ Innovator | 🔥 Chaos Architect<br><br>Hi, I'm Aaron (aka Cha03s), a young developer harnessing the power of the neon grid to build the future. My code is blazing fast, high-performance, and chaotic—just the way I like it.</h6>
+[✓] Memory core initialized
+[✓] Neon thread stable
+[✓] Latency 0.000ms confirmed
+[⚡] CHAOS active in 3... 2... 1...
 
-###
+→ Visual output locked ∙ Powerstream online ∙ Logic async
+</code></pre>
 
-<br clear="both">
+<!-- SYSTEM STATUS CONSOLE -->
+<pre align="center"><code>
+╔══════════════════════════════════════════════════════╗
+║   ⚠ WARNING: You are inside the core visual loop     ║
+║   ↪ No escape. Only forward. Infused with neon flow  ║
+╚══════════════════════════════════════════════════════╝
+</code></pre>
 
-<p align="left">⚡ Technologies I Use ⚡<br><br>Python, JavaScript, TypeScript, Go<br>PostgreSQL, Redis<br>React, Next.js, Node.js, Docker<br>Discord.py, asyncio, FastAPI</p>
+<!-- TERMINAL COMMAND BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/terminal-$%20cd%20~%2FCHAOS-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
-###
+<!-- WAVE OUTRO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:0a0f4c&height=120&section=footer"/>
+</p>
 
-<br clear="both">
+<!-- NEON PULSING BUTTON -->
+<p align="center">
+  <a href="https://github.com/Cha03s" target="_blank">
+    <img src="https://img.shields.io/badge/Jump%20To%20CHAOS%20Portal-Click%20Here-7D5FFF?style=for-the-badge&logo=rocket&logoColor=white&color=7D5FFF&logoWidth=30&link=https://github.com/Cha03s"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" height="40" alt="opensuse logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="safari logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
+<!-- DYNAMIC CODE SNIPPET WITH BACKGROUND ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cha03s/Cha03s/main/animations/code.gif" />
+</p>
 
-###
+<!-- CYBER EFFECT TEXT -->
+<p align="center">
+  <h1 style="color:#00f9ff; font-family: 'Courier New', monospace; text-shadow: 0 0 10px rgba(0,255,255,0.8);">CONNECTED TO CHAOS CORE</h1>
+</p>
 
-<br clear="both">
+<!-- WILD SCROLLING TUNNEL -->
+<p align="center">
+  <iframe src="https://embed.lottiefiles.com/animation/128170" width="100%" height="300px" style="border: none;"></iframe>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cha03s/Cha03s/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cha03s/Cha03s/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cha03s/Cha03s/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cha03s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cha03s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cha03s&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Cha03s&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cha03s.Cha03s&"  />
-</div>
-
-###
+<!-- DYNAMIC LOADING BAR -->
+<p align="center">
+  <img src="https://progress-bar.dev/100?title=Loading%20Chaos&width=1000&height=35&color=7D5FFF&seconds=3" />
+</p>
