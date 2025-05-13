@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=BD93F9&center=true&vCenter=true&width=700&lines=▌System%20Online...;▌Entering%20Glitch%20State...;▌Neon%20Overdrive%20Engaged...;▌Terminal%20Locked%20In...;▌State%3A%20CHAOS%20∞" />
 </p>
 
-### 
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cha03s/Cha03s/output/pacman-contribution-graph-dark.svg">
@@ -18,13 +18,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cha03s/Cha03s/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
 
 <br clear="both">
 
 <!-- Programming -->
 <h3 align="center">Programming</h3>
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
@@ -42,13 +42,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
+
 
 <br clear="both">
 
 <!-- Databases -->
 <h3 align="center">Databases</h3>
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -60,13 +60,13 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
-###
+
 
 <br clear="both">
 
 <!-- Frameworks -->
 <h3 align="center">Frameworks</h3>
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -80,13 +80,13 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
-###
+
 
 <br clear="both">
 
 <!-- More -->
 <h4 align="center">More</h4>
-###
+
 
 <br clear="both">
 
@@ -124,7 +124,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+
 
 <!-- STATISTICS AND TROPHIES -->
 
@@ -148,7 +148,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cha03s&theme=react-dark&area=true&color=7D5FFF&point=BD93F9&line=BD93F9&bg_color=0a0f4c" />
 </p>
 
-### 
+
 
 <!-- WAVE OUTRO -->
 <p align="center">
