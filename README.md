@@ -102,6 +102,30 @@
 
 ### 
 
+<!-- STATISTICS AND TROPHIES -->
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cha03s&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&title_color=BD93F9&icon_color=7D5FFF&text_color=ffffff&bg_color=0a0f4c" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cha03s&layout=compact&theme=tokyonight&title_color=BD93F9&icon_color=7D5FFF&text_color=ffffff&bg_color=0a0f4c" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cha03s&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cha03s&theme=react-dark&area=true&color=7D5FFF&point=BD93F9&line=BD93F9&bg_color=0a0f4c" />
+</p>
+
+### 
+
 <!-- WAVE OUTRO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:0a0f4c&height=120&section=footer"/>
