@@ -1,4 +1,3 @@
-
 <!-- CHAOS README.md | FULL POWER EXPANDED -->
 
 <!-- TYPING INTRO -->
@@ -67,4 +66,31 @@ chaos@core:~$ ./glitch --runtime inject
 <!-- WAVE OUTRO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:0a0f4c&height=120&section=footer"/>
+</p>
+
+<!-- NEON PULSING BUTTON -->
+<p align="center">
+  <a href="https://github.com/Cha03s" target="_blank">
+    <img src="https://img.shields.io/badge/Jump%20To%20CHAOS%20Portal-Click%20Here-7D5FFF?style=for-the-badge&logo=rocket&logoColor=white&color=7D5FFF&logoWidth=30&link=https://github.com/Cha03s"/>
+  </a>
+</p>
+
+<!-- DYNAMIC CODE SNIPPET WITH BACKGROUND ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cha03s/Cha03s/main/animations/code.gif" />
+</p>
+
+<!-- CYBER EFFECT TEXT -->
+<p align="center">
+  <h1 style="color:#00f9ff; font-family: 'Courier New', monospace; text-shadow: 0 0 10px rgba(0,255,255,0.8);">CONNECTED TO CHAOS CORE</h1>
+</p>
+
+<!-- WILD SCROLLING TUNNEL -->
+<p align="center">
+  <iframe src="https://embed.lottiefiles.com/animation/128170" width="100%" height="300px" style="border: none;"></iframe>
+</p>
+
+<!-- DYNAMIC LOADING BAR -->
+<p align="center">
+  <img src="https://progress-bar.dev/100?title=Loading%20Chaos&width=1000&height=35&color=7D5FFF&seconds=3" />
 </p>
