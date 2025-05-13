@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Icons with Purple Border</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1a1a1a;
+      color: white;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    .icon-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-top: 50px;
+    }
+
+    .icon {
+      display: inline-block;
+      margin: 15px;
+      border: 3px solid transparent;
+      border-radius: 8px;
+      padding: 10px;
+      transition: border-color 0.3s ease;
+      animation: pulse 2s infinite;
+    }
+
+    .icon img {
+      height: 40px;
+      width: 40px;
+    }
+
+    /* Animation for the pulse effect */
+    @keyframes pulse {
+      0% {
+        border-color: transparent;
+      }
+      50% {
+        border-color: #BD93F9;
+      }
+      100% {
+        border-color: transparent;
+      }
+    }
+
+    .icon:hover {
+      border-color: #BD93F9;
+    }
+
+  </style>
+</head>
+<body>
+
+  <h1>Programming Icons with Lila Animated Border</h1>
+  <div class="icon-container">
+    <!-- Programming Icons -->
+    <div class="icon">
+      <img src="https://skillicons.dev/icons?i=go" alt="Go">
+    </div>
+    <div class="icon">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+    </div>
+    <div class="icon">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java">
+    </div>
+    <div class="icon">
+      <img src="https://skillicons.dev/icons?i=py" alt="Python">
+    </div>
+    <div class="icon">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
+    </div>
+    <div class="icon">
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash">
+    </div>
+  </div>
+
+</body>
+</html>
