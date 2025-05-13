@@ -1,96 +1,23 @@
-<!-- CHAOS README.md | FULL POWER EXPANDED -->
+<h1 align="center">Hi 👋, I'm Chaos</h1>
+<h3 align="center">A developer from Germany</h3>
 
-<!-- TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=BD93F9&center=true&vCenter=true&width=700&lines=▌System%20Online...;▌Entering%20Glitch%20State...;▌Neon%20Overdrive%20Engaged...;▌Terminal%20Locked%20In...;▌State%3A%20CHAOS%20∞" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cha03s&label=Profile%20views&color=0e75b6&style=flat" alt="cha03s" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cha03s" alt="cha03s" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/discord.gg/dosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/dosa" height="30" width="40" /></a>
 </p>
 
-<!-- CAPSULE WAVE HEADER -->
-![capsule](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f4c,100:BD93F9&height=160&section=header&text=CHAOS&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- SKILL ICON GRID -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,ts,js,html,css,react,nextjs,nodejs,bash,powershell,git,docker,postgres,linux,vscode,anaconda,yarn&perline=9" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cha03s&show_icons=true&locale=en&layout=compact" alt="cha03s" /></p>
 
-<!-- STACK STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cha03s&show_icons=true&theme=tokyonight&count_private=true&hide=issues&title_color=BD93F9&icon_color=7D5FFF&text_color=ffffff&bg_color=0a0f4c" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cha03s&theme=tokyonight&background=0a0f4c&ring=BD93F9&fire=ff00ff&currStreakLabel=ffffff" height="165" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cha03s&show_icons=true&locale=en" alt="cha03s" /></p>
 
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cha03s&theme=react-dark&area=true&color=7D5FFF&point=BD93F9&line=BD93F9&bg_color=0a0f4c" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cha03s&" alt="cha03s" /></p>
 
-<!-- BADGE CLUSTER -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Neon_Overdrive-7D5FFF?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Latency-0.000ms-BD93F9?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uptime-∞-8a9cbe?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Engine-ASYNCHRONOUS-ff00ff?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-State%3A%20CHAOS-5f0fff?style=for-the-badge&logo=obsidian&logoColor=white" />
-</p>
-
-<!-- ANIMATED TEXT LINE 2 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1200&pause=200&color=BD93F9&center=true&vCenter=true&width=700&lines=▌PULSE%3A%20█▒▒▒▒▒▒▒▒▒▒▒▒▒;▌PULSE%3A%20████▒▒▒▒▒▒▒▒▒;▌PULSE%3A%20██████████▒▒▒▒;▌PULSE%3A%20██████████████▒▒;▌PULSE%3A%20███████████████████" />
-</p>
-
-<!-- TERMINAL BLOCK SIMULATION -->
-<pre align="center"><code>
-chaos@core:~$ ./glitch --runtime inject
-
-[✓] Memory core initialized
-[✓] Neon thread stable
-[✓] Latency 0.000ms confirmed
-[⚡] CHAOS active in 3... 2... 1...
-
-→ Visual output locked ∙ Powerstream online ∙ Logic async
-</code></pre>
-
-<!-- SYSTEM STATUS CONSOLE -->
-<pre align="center"><code>
-╔══════════════════════════════════════════════════════╗
-║   ⚠ WARNING: You are inside the core visual loop     ║
-║   ↪ No escape. Only forward. Infused with neon flow  ║
-╚══════════════════════════════════════════════════════╝
-</code></pre>
-
-<!-- TERMINAL COMMAND BADGE -->
-<p align="center">
-  <img src="https://img.shields.io/badge/terminal-$%20cd%20~%2FCHAOS-black?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
-<!-- WAVE OUTRO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:0a0f4c&height=120&section=footer"/>
-</p>
-
-<!-- NEON PULSING BUTTON -->
-<p align="center">
-  <a href="https://github.com/Cha03s" target="_blank">
-    <img src="https://img.shields.io/badge/Jump%20To%20CHAOS%20Portal-Click%20Here-7D5FFF?style=for-the-badge&logo=rocket&logoColor=white&color=7D5FFF&logoWidth=30&link=https://github.com/Cha03s"/>
-  </a>
-</p>
-
-<!-- DYNAMIC CODE SNIPPET WITH BACKGROUND ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cha03s/Cha03s/main/animations/code.gif" />
-</p>
-
-<!-- CYBER EFFECT TEXT -->
-<p align="center">
-  <h1 style="color:#00f9ff; font-family: 'Courier New', monospace; text-shadow: 0 0 10px rgba(0,255,255,0.8);">CONNECTED TO CHAOS CORE</h1>
-</p>
-
-<!-- WILD SCROLLING TUNNEL -->
-<p align="center">
-  <iframe src="https://embed.lottiefiles.com/animation/128170" width="100%" height="300px" style="border: none;"></iframe>
-</p>
-
-<!-- DYNAMIC LOADING BAR -->
-<p align="center">
-  <img src="https://progress-bar.dev/100?title=Loading%20Chaos&width=1000&height=35&color=7D5FFF&seconds=3" />
-</p>
