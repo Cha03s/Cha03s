@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## <strong>Hey, I'm Aaron 👋</strong><br/>
+  ## <strong>Hey, I'm Chaos 👋</strong><br/>
   <p align="center">
     <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=25&center=true&lines=full+stack+developer;performance+focused;discord.bot+architect"></a>
   </p>
