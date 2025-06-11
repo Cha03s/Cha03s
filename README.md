@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/781512050445778985">
-    <img src="https://discord.c99.nl/widget/theme-1/781512050445778985.png" alt="Discord Presence" />
+    <img src="https://discord.c99.nl/widget/theme-1/781512050445778985.png" alt="Discord Profile" />
   </a>
   <p align="center">
     <a href="https://discord.gg/dosa">Join my Discord Server</a> ・ 
@@ -57,7 +57,4 @@
 > 🔐 Private Repos: classified  
 > 📜 Public Repos: WIP  
 > 💼 Hireable: ask me in Discord  
-
-<!-- Actual data will be filled by GitHub Actions -->
-
 <!--END_SECTION:waka-->
