@@ -42,7 +42,9 @@
 
 ---
 
+## 📊 WakaTime Stats
+
 <!--START_SECTION:waka-->
-<!-- Dieser Block wird automatisch durch die GitHub Action ersetzt. -->
-<!-- Er zeigt: Code Time, Sprachen, Commits, Uhrzeiten, Wochentage, Projekte, usw. -->
+<!-- Wird automatisch ersetzt beim nächsten Action-Run -->
 <!--END_SECTION:waka-->
+
