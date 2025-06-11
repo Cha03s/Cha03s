@@ -1,26 +1,34 @@
-# .github/workflows/updates.yml
 name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # jeden Tag um Mitternacht UTC
+    - cron: '0 0 * * *'  # täglich um 00:00 UTC (01:00 Berlin)
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Update WakaTime stats in README
+        uses: anmol098/waka-readme-stats@v3.3  # 💡 feste Version = stabil
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Diese Secrets brauchst du NICHT anlegen – GH_TOKEN ist automatisch da
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # Optionen – nur das Nötigste
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE: "True"
+
+          # Kein unnötiger Ballast
           SHOW_TIMEZONE: "False"
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "False"
+
           LOCALE: "en"
