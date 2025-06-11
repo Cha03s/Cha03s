@@ -3,8 +3,10 @@
   <h2><strong>Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="3%"></strong></h2>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=25&center=true&vCenter=true&width=600&lines=hi+I'm+Chaos.;high+performance+discord+bot+developer.;redis%2C+postgres%2C+docker+%2B+python+addict." />
+    <img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=25&center=true&vCenter=true&width=900&lines=Hi,+I'm+Chaos.;High+performance+Discord+bot+dev.;Python,+Redis,+Postgres+%2B+Docker+addict.">
   </p>
+
+  <br/>
 
   <a href="https://discord.com/users/781512050445778985">
     <img src="https://discord.c99.nl/widget/theme-1/781512050445778985.png" alt="Discord Status" />
@@ -14,7 +16,6 @@
     <a href="https://discord.gg/dosa">Join my Discord Server</a> ・ 
     <img src="https://komarev.com/ghpvc/?username=Cha03s" alt="Profile Views" />
   </p>
-
 </div>
 
 ---
