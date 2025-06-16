@@ -2,7 +2,7 @@
   
   ## <strong>Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"></strong><br/>
   <p align="center">
-    <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=25&center=true&lines=hi+I'm+Chaos;high+performance+discord+developer;postgres%2C+redis%2C+docker+%2B+python+dev"></a>
+    <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=25&center=true&lines=hi+I'm+Chaos;high+perf+discord+bots;postgres+%2B+redis+%2B+python"></a>
   </p>
   
 </div>
