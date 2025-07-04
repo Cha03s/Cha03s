@@ -45,7 +45,7 @@
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -55,7 +55,7 @@
 
 > 📦 3.3 kB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,13 +90,13 @@ Sunday                   74 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   18 hrs 37 mins      █████████████████████████   100.00 % 
+Python                   16 hrs 46 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,6 +108,6 @@ Python                   4 repos             ███████████�
 
 
 
- Last Updated on 04/07/2025 01:19:41 UTC
+ Last Updated on 04/07/2025 06:25:29 UTC
 <!--END_SECTION:waka-->
 
